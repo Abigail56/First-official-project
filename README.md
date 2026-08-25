@@ -1,4 +1,4 @@
-CHAIRMAN ADE'S MONEY BOOK
+MR. ADE'S (ESTATE CHAIRMAN) MONEY BOOK
 ==========================
 
 WHAT THIS IS
@@ -16,8 +16,7 @@ Estate-due-tracker/
 |
 |-- main.py                          <- RUN THIS FILE. Shows the menu,
 |                                        nothing else.
-|-- README.txt                        <- this file
-|-- README.md                         <- same information, in Markdown
+|-- README.md                         <- contains information on the step by step of this program.
 |
 |-- Backend_first_official_project/    <- the package. All real logic
       |                                   lives here.
