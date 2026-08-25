@@ -1,0 +1,24 @@
+[2026-08-24 22:41:28] New member registered: 5466 | Phone: CHI
+[2026-08-24 23:15:58] New member registered: Mr stanley Chi | Phone: 08140790458#
+[2026-08-24 23:22:59] New member registered: Agu Nwa | Phone: +256309745
+[2026-08-24 23:28:10] Payment recorded: Agu Nwa | Amount: ₦20000.00 | Month: 1
+[2026-08-24 23:35:11] Payment recorded: Mr stanley Chi | Amount: ₦6000000.00 | Month: 2026/08/24
+[2026-08-24 23:37:39] Payment recorded: Mr stanley Chi | Amount: ₦3000000.00 | Month: 2
+[2026-08-24 23:41:07] New member registered: Odogwu Nwa | Phone: +2345634
+[2026-08-24 23:42:14] Payment recorded: Odogwu Nwa | Amount: ₦120000.00 | Month: 28/08/2028
+[2026-08-25 00:08:10] New member registered: chidi | Phone: 08065598798
+[2026-08-25 00:08:39] Payment recorded: chidi | Amount: ₦20000.00 | Month: 24/08/2026
+[2026-08-25 01:08:31] New member registered: chi | Phone: 07057453620
+[2026-08-25 01:09:11] Payment recorded: chi | Amount: ₦40000.00 | Month: 24/08/2026
+[2026-08-25 01:20:46] Member imported: [2026-08-24 22:41:28] New member registered: 5466 | Phone: Phone: CHI
+[2026-08-25 01:20:46] Member imported: [2026-08-24 23:15:58] New member registered: Mr stanley Chi | Phone: Phone: 08140790458#
+[2026-08-25 01:20:46] Member imported: [2026-08-24 23:22:59] New member registered: Agu Nwa | Phone: Phone: +256309745
+[2026-08-25 01:20:46] Member imported: [2026-08-24 23:41:07] New member registered: Odogwu Nwa | Phone: Phone: +2345634
+[2026-08-25 01:20:46] Member imported: [2026-08-25 00:08:10] New member registered: chidi | Phone: Phone: 08065598798
+[2026-08-25 01:20:46] Member imported: [2026-08-25 01:08:31] New member registered: chi | Phone: Phone: 07057453620
+[2026-08-25 01:31:32] Member imported: [2026-08-25 01:20:46] Member imported: [2026-08-24 22:41:28] New member registered: 5466 | Phone: Phone: Phone: CHI
+[2026-08-25 01:31:32] Member imported: [2026-08-25 01:20:46] Member imported: [2026-08-24 23:15:58] New member registered: Mr stanley Chi | Phone: Phone: Phone: 08140790458#
+[2026-08-25 01:31:32] Member imported: [2026-08-25 01:20:46] Member imported: [2026-08-24 23:22:59] New member registered: Agu Nwa | Phone: Phone: Phone: +256309745
+[2026-08-25 01:31:32] Member imported: [2026-08-25 01:20:46] Member imported: [2026-08-24 23:41:07] New member registered: Odogwu Nwa | Phone: Phone: Phone: +2345634
+[2026-08-25 01:31:32] Member imported: [2026-08-25 01:20:46] Member imported: [2026-08-25 00:08:10] New member registered: chidi | Phone: Phone: Phone: 08065598798
+[2026-08-25 01:31:32] Member imported: [2026-08-25 01:20:46] Member imported: [2026-08-25 01:08:31] New member registered: chi | Phone: Phone: Phone: 07057453620
