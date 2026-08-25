@@ -25,7 +25,7 @@ elif status == "corrupt":
 
 while True:
     print("\n" + "=" * 70)
-    print("       CHAIRMAN ADE'S MONEY BOOK")
+    print("       MR. ADE'S(ESTATE CHAIRMAN)'S MONEY BOOK")
     print("=" * 70)
     print("1. Register new member")
     print("2. View members")

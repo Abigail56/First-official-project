@@ -3,7 +3,7 @@ import os
 from datetime import datetime
 
 
-DATA_FILE = "money_book_data.json"
+DATA_FILE = "Mr. Ade's money book.json"
 
 
 def create_new_data():
@@ -17,8 +17,8 @@ def create_new_data():
 
 def validate_data(data):
     """Check whether saved data has the expected structure."""
-    if not isinstance(data, dict):
-        return False
+    # if not isinstance(data, dict):
+    #     return False
 
     if "monthly_due" not in data:
         return False
@@ -53,7 +53,7 @@ def load_data():
 
     except (json.JSONDecodeError, ValueError, OSError):
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        damaged_file = f"money_book_corrupt_{timestamp}.json"
+        damaged_file = f"Mr. Ade's money book_{timestamp}.json"
 
         try:
             os.rename(DATA_FILE, damaged_file)
@@ -76,7 +76,7 @@ def save_data(data):
 def backup_data(data):
     """Create a dated copy of the current records."""
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    backup_file = f"money_book_backup_{timestamp}.json"
+    backup_file = f"Mr. Ade's money book_{timestamp}.json"
 
     with open(backup_file, "w", encoding="utf-8") as file:
         json.dump(data, file, indent=4)
